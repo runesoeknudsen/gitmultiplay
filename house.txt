@@ -23,22 +23,22 @@ _/______\____________________________________________________________________
                      ^      _____   @
                    /UUU\    |H_H|
                  /UUUUUUU\  |_H_|
-               /UUUUUUUUUUU\|H_H|
-             /UUUUUUUUUUUUUUU\H_|
-           /UUUUUUUUUUUUUUUUUUU\|
-         /UUUUUUUUUUUUUUUUUUUUUUU\
-       /UUUUUUUUUUUUUUUUUUUUUUUUUUU\
-     /UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\
-   /UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\
- /UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\
-  ||                                   ||
-  ||                                   ||
-  ||                                   ||
-  ||                                   ||
-  ||    -----   ---------              ||
-  ||    |   |   |   |   |    _____     ||
-  ||    |   |   |   |   |    |   |     ||
-  ||    -----   ---------    |.  |     ||
-  ||                         |   |     ||
+               /UUUUUUUUUUU\|H_H|                     ___________OO
+             /UUUUUUUUUUUUUUU\H_|                     |          ||
+           /UUUUUUUUUUUUUUUUUUU\|                     |          ||
+         /UUUUUUUUUUUUUUUUUUUUUUU\                    |__________||
+       /UUUUUUUUUUUUUUUUUUUUUUUUUUU\                             ||
+     /UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\                           ||
+   /UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\                         ||
+ /UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\                       ||
+  ||                                   ||                        ||
+  ||                                   ||                        ||
+  ||                                   ||                        ||
+  ||                                   ||                        ||
+  ||    -----   ---------              ||                        ||
+  ||    |   |   |   |   |    _____     ||                        ||
+  ||    |   |   |   |   |    |   |     ||                        ||\
+  ||    -----   ---------    |.  |     ||                        |||
+  ||                         |   |     ||                        |||
 --------------------------------------------------------------------
                                        
