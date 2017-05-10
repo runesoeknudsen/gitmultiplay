@@ -6,16 +6,16 @@ _/______\____________________________________________________________________
 
                               @@@@@@@@@@@@@@@@@@@@@@@
                      ^      _____
-                   /   \    |   |
-                 /       \  |   |
-               /           \|   |
-             /               \  |
-           /                   \|
-         /                       \
-       /                           \
-     /                               \
-   /                                   \
- /_______________________________________\
+                   /UUU\    |   |
+                 /UUUUUUU\  |   |
+               /UUUUUUUUUUU\|   |
+             /UUUUUUUUUUUUUUU\  |
+           /UUUUUUUUUUUUUUUUUUU\|
+         /UUUUUUUUUUUUUUUUUUUUUUU\
+       /UUUUUUUUUUUUUUUUUUUUUUUUUUU\
+     /UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\
+   /UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\
+ /UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\
   ||                                   ||
   ||                                   ||
   ||                                   ||
