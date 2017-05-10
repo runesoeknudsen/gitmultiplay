@@ -6,10 +6,10 @@ _/______\____________________________________________________________________
 
                               @@@@@@@@@@@@@@@@@@@@@@@
                      ^      _____
-                   /UUU\    |   |
-                 /UUUUUUU\  |   |
-               /UUUUUUUUUUU\|   |
-             /UUUUUUUUUUUUUUU\  |
+                   /UUU\    |H_H|
+                 /UUUUUUU\  |_H_|
+               /UUUUUUUUUUU\|H_H|
+             /UUUUUUUUUUUUUUU\H_|
            /UUUUUUUUUUUUUUUUUUU\|
          /UUUUUUUUUUUUUUUUUUUUUUU\
        /UUUUUUUUUUUUUUUUUUUUUUUUUUU\
