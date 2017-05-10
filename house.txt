@@ -24,9 +24,9 @@ _/______\____________________________________________________________________
                    /UUU\    |H_H|
                  /UUUUUUU\  |_H_|
                /UUUUUUUUUUU\|H_H|                     ___________OO
-             /UUUUUUUUUUUUUUU\H_|                     |          ||
-           /UUUUUUUUUUUUUUUUUUU\|                     |          ||
-         /UUUUUUUUUUUUUUUUUUUUUUU\                    |__________||
+             /UUUUUUUUUUUUUUU\H_|                     |      |   ||
+           /UUUUUUUUUUUUUUUUUUU\|                     |----------||
+         /UUUUUUUUUUUUUUUUUUUUUUU\                    |______|___||
        /UUUUUUUUUUUUUUUUUUUUUUUUUUU\                             ||
      /UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\                           ||
    /UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\                         ||
